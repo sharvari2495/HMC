@@ -112,7 +112,7 @@
       </div>
       <div class="col-md-4 service_blog margin_bottom_50">
         <div class="full">
-          <div class="service_img"> <img class="img-responsive" src="github.com/sharvari2495/HMC/blob/master/spare.jpg" alt="#" /> </div>
+          <div class="service_img"> <img class="img-responsive" src="https://github.com/sharvari2495/HMC/blob/master/spare.jpg" alt="#" /> </div>
           <div class="service_cont">
             <h3 class="service_head">Spares</h3>
             <p>Spare parts of pumps, engine, and generators are available.</p>
